@@ -1,0 +1,42 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/boss-biz-proxy-master-c3eb87e6ed0ff3509ee476deb39acb810f563987" value="PREVIEW" />
+            <entry key="D:/IflytekProject/IFIYProject/accountcheck" value="PREVIEW" />
+            <entry key="D:/IflytekProject/IFIYProject/server-aisp-job" value="PREVIEW" />
+            <entry key="D:/IflytekProject/IFIYSVN/05.Design/AI+营销服务平台/省份-四川电信/guizhou-sms-tool" value="PREVIEW" />
+            <entry key="D:/IflytekProject/IFIYSVN/Source/server/meap-service-mobile-adsring" value="PREVIEW" />
+            <entry key="D:/IflytekProject/IFIYSVN/Source/server/meap-service-wh" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="D:/IflytekProject/IFIYProject" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
