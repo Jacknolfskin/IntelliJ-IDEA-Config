@@ -214,6 +214,10 @@
           <option name="url" value="https://git.iflytek.com/CTI_MEA/boss-biz-proxy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflytek.com/CTI_MEA/profile-aisp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IflytekProject\IFIYProject" />
