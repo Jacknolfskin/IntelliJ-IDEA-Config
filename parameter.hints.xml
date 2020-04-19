@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="java.time.format.DateTimeFormatter.format(temporal)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
