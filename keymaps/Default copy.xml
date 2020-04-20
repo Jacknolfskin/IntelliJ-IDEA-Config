@@ -9,6 +9,9 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="MainMenu">
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="alt b" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
