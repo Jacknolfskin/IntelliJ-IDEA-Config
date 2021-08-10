@@ -278,9 +278,13 @@
           <option name="url" value="https://oauth2:kQ8n6zUxVt7kvKZa47xs@git.iflytek.com/CTI_MEA/aisp-custom-proxy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oauth2:kQ8n6zUxVt7kvKZa47xs@git.iflytek.com/CTI_MEA/common-lib.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\" />
+    <option name="cloneParentDir" value="D:\IflytekProject\IFIYProject" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
