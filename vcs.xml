@@ -290,9 +290,13 @@
           <option name="url" value="https://oauth2:kQ8n6zUxVt7kvKZa47xs@git.iflytek.com/CTI_MEA/aisp-aiui-agent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xkzhangsan/xk-time.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IflytekProject\IFIYProject" />
+    <option name="cloneParentDir" value="D:\OSP" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
