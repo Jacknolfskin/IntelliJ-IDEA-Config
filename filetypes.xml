@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="TimeExp" type="PLAIN_TEXT" />
+      <mapping pattern="TimeRegex" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="ktr" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
