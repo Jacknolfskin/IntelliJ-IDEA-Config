@@ -310,8 +310,16 @@
           <option name="url" value="https://oauth2:kQ8n6zUxVt7kvKZa47xs@git.iflytek.com/CTI_MEA/jydp-service-flowservice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.46.62/icenter1/product-dev/ic-dev/core-services/tilebuilder.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.46.62" />
+          <option name="userName" value="Huf" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IflytekProject" />
+    <option name="cloneParentDir" value="D:\" />
   </component>
 </application>
