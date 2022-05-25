@@ -346,9 +346,13 @@
           <option name="url" value="https://start.aliyun.com/type=maven-project&amp;language=java&amp;architecture=none&amp;bootVersion=2.1.18.RELEASE&amp;baseDir=Test&amp;groupId=com.hufei.test&amp;artifactId=Test&amp;name=Test&amp;description=Demo%20project%20for%20Spring%20Boot&amp;packageName=com.hufei.test&amp;packaging=jar&amp;javaVersion=1.8/Test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MrSmallLiu/pg_mvt_demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\GeoVisProject" />
+    <option name="cloneParentDir" value="D:\Project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
