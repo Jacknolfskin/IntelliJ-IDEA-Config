@@ -358,6 +358,14 @@
           <option name="url" value="http://192.168.46.62/public-core-platform/product-dev/nacos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.46.62/icenter1/product-dev/ic-dev/core-services/datamanager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.46.62/icenter1/product-dev/ic-dev/core-services/platformresource.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\GeoVisProject" />
