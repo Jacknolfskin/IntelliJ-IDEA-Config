@@ -12,5 +12,12 @@
     <entry key="win.editor.thumb.default.fill.min" value="102" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="ide.experimental.ui.animations" value="true" />
+    <entry key="ide.experimental.ui.editor.tabs" value="true" />
+    <entry key="ide.experimental.ui.inter.font" value="true" />
+    <entry key="ide.experimental.ui.main.toolbar" value="true" />
+    <entry key="ide.experimental.ui.tree.selection" value="true" />
+    <entry key="ide.experimental.ui.vcs.branch.popup" value="true" />
   </component>
 </application>
