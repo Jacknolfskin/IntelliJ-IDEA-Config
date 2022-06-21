@@ -386,6 +386,10 @@
           <option name="url" value="https://gitee.com/liuqun1986/pgr_demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://hub.fastgit.xyz/ustczyb/shortpath-query.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Project" />
