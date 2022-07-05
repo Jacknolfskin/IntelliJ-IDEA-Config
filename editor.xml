@@ -3,14 +3,6 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="CodeVisionSettings">
-    <option name="codeVisionGroupToPosition">
-      <map>
-        <entry key="inheritors" value="Default" />
-        <entry key="problems" value="Default" />
-        <entry key="references" value="Default" />
-        <entry key="vcs.code.vision" value="Default" />
-      </map>
-    </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="vcs.code.vision" />
@@ -18,7 +10,7 @@
     </option>
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
