@@ -378,6 +378,10 @@
           <option name="url" value="https://gitclone.com/github.com/graphhopper/graphhopper.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/graphhopper/graphhopper-reader-shp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Project" />
