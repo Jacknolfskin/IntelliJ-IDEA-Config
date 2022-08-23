@@ -386,6 +386,10 @@
           <option name="url" value="http://39.107.105.31/geoaddress/product-dev/path-plan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.107.105.31/geoaddress/product-dev/addrdocs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\GeoVisProject" />
