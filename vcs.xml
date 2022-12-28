@@ -378,6 +378,10 @@
           <option name="url" value="https://gitclone.com/github.com/xuxueli/xxl-job.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.geovisearth.com/earth-drive1/product-dev/earth-drive-upload.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\GeoVisProject" />
