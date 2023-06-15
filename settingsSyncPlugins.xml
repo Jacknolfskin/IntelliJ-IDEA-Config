@@ -32,6 +32,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.baomidou.plugin.idea.mybatisx">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.codota.csp.intellij">
           <value>
             <PluginData />
@@ -46,6 +58,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="com.tabnine.TabNine">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="io.zhile.research.ide-eval-resetter">
@@ -69,6 +86,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.plugins.vue">
+          <value>
+            <PluginData />
           </value>
         </entry>
       </map>
