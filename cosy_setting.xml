@@ -1,5 +1,7 @@
 <application>
   <component name="CosySettings">
+    <option name="manualOpenLocalModel" value="true" />
+    <option name="methodQuickSwitchEnum" value="DISABLED" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
@@ -23,12 +25,13 @@
         </option>
         <option name="local">
           <LocalModelParam>
-            <option name="enable" value="false" />
+            <option name="enable" value="true" />
             <option name="inferenceMode" value="auto" />
             <option name="maxCandidateNum" value="3" />
           </LocalModelParam>
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="showInlineAcceptTips" value="false" />
   </component>
 </application>
