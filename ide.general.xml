@@ -12,5 +12,7 @@
     <entry key="win.editor.thumb.default.fill.min" value="102" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
