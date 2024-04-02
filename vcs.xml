@@ -422,6 +422,10 @@
           <option name="url" value="http://10.1.64.14/earth-datamanage/devops/jpom-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/wanghouhou/wgcloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\GeoVisProject" />
