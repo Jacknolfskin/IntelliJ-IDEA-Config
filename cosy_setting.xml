@@ -32,6 +32,25 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="earth-drive-server|1341095376173142">
+          <value>
+            <list>
+              <option value="String extName = FileUtil.extName(fileName);是什么意思" />
+            </list>
+          </value>
+        </entry>
+        <entry key="python-learn|1341095376173142">
+          <value>
+            <list>
+              <option value="self.balance = balance&#10;        lock = threading.RLock()&#10;        self.condition = threading.Condition(lock)是什么意思" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
