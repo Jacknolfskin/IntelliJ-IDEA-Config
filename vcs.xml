@@ -438,6 +438,10 @@
           <option name="url" value="https://github.com/QwenLM/CodeQwen1.5.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/goophps/fastapi-streaming.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Project" />
