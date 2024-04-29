@@ -52,6 +52,8 @@
           <value>
             <list>
               <option value="/explain code" />
+              <option value="/generate optimization" />
+              <option value="response = requests.post(url, json={&quot;prompt&quot;: &quot;实现python快速排序&quot;}, stream=True)中url换成域名就没法流式打印输出了" />
             </list>
           </value>
         </entry>
