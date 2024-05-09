@@ -45,6 +45,8 @@
           <value>
             <list>
               <option value="knowledge_base_name == &quot;science_kn&quot;:python 这段代码中如何匹配多个值" />
+              <option value="/explain code" />
+              <option value="knowledge_base_name.strip() == &quot;&quot;中的strip是啥意思" />
             </list>
           </value>
         </entry>
