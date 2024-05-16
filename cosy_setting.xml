@@ -38,6 +38,7 @@
           <value>
             <list>
               <option value="String extName = FileUtil.extName(fileName);是什么意思" />
+              <option value="curl请求 python后端接口参数类型为input: List[str] 该怎么写" />
             </list>
           </value>
         </entry>
