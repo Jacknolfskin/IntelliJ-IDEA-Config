@@ -2,34 +2,6 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
-        <entry key="Pythonid">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.python-pro-capable" />
-                  <option value="com.intellij.modules.ultimate" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="cn.apipost.Apipost-idea-plugin-2.0">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.java" />
-                  <option value="com.intellij.modules.platform" />
-                  <option value="com.intellij.properties" />
-                  <option value="org.jetbrains.kotlin" />
-                  <option value="org.jetbrains.plugins.yaml" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
-            </PluginData>
-          </value>
-        </entry>
         <entry key="cn.cloud.auto.restful.tool">
           <value>
             <PluginData>
@@ -68,21 +40,6 @@
                   <option value="org.intellij.plugins.markdown" />
                 </set>
               </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.apifox.uploader">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.java" />
-                  <option value="com.intellij.modules.all" />
-                  <option value="com.intellij.modules.lang" />
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -207,18 +164,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="izhangzhihao.rainbow.brackets.lite">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
             </PluginData>
           </value>
         </entry>
@@ -236,9 +181,7 @@
         </entry>
         <entry key="org.jetbrains.plugins.vue">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
       </map>

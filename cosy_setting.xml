@@ -32,44 +32,6 @@
         </option>
       </ChangeUserSettingParams>
     </option>
-    <option name="recentQueries">
-      <map>
-        <entry key="earth-drive-server|1341095376173142">
-          <value>
-            <list>
-              <option value="String extName = FileUtil.extName(fileName);是什么意思" />
-              <option value="curl请求 python后端接口参数类型为input: List[str] 该怎么写" />
-            </list>
-          </value>
-        </entry>
-        <entry key="langchain3coding|1341095376173142">
-          <value>
-            <list>
-              <option value="knowledge_base_name == &quot;science_kn&quot;:python 这段代码中如何匹配多个值" />
-              <option value="/explain code" />
-              <option value="knowledge_base_name.strip() == &quot;&quot;中的strip是啥意思" />
-            </list>
-          </value>
-        </entry>
-        <entry key="python-learn|1341095376173142">
-          <value>
-            <list>
-              <option value="self.balance = balance&#10;        lock = threading.RLock()&#10;        self.condition = threading.Condition(lock)是什么意思" />
-            </list>
-          </value>
-        </entry>
-        <entry key="大模型脚本|1341095376173142">
-          <value>
-            <list>
-              <option value="/explain code" />
-              <option value="/generate optimization" />
-              <option value="response = requests.post(url, json={&quot;prompt&quot;: &quot;实现python快速排序&quot;}, stream=True)中url换成域名就没法流式打印输出了" />
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="showInlineAcceptTips" value="false" />
-    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
