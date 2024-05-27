@@ -1,0 +1,5 @@
+<application>
+  <component name="RainbowLiteSettings">
+    <option name="bigFilesLinesThreshold" value="5000" />
+  </component>
+</application>
