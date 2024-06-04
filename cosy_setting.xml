@@ -32,6 +32,17 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="dify|1341095376173142">
+          <value>
+            <list>
+              <option value="'User' object has no attribute '_current_tenant'. Did you mean: 'current_tenant'?" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="showInlineAcceptTips" value="false" />
   </component>
 </application>
