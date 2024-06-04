@@ -38,6 +38,7 @@
           <value>
             <list>
               <option value="'User' object has no attribute '_current_tenant'. Did you mean: 'current_tenant'?" />
+              <option value="required positional arguments" />
             </list>
           </value>
         </entry>
