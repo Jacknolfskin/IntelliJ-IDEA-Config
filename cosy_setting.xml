@@ -45,6 +45,7 @@
               <option value="can only concatenate str (not &quot;tuple&quot;) to str" />
               <option value="python 类定义字段并附上初始化值" />
               <option value="类中直接赋初始化值" />
+              <option value="python 获取timestampg格式当前时间" />
             </list>
           </value>
         </entry>
