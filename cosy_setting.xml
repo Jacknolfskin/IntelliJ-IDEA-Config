@@ -48,6 +48,7 @@
               <option value="python 获取timestampg格式当前时间" />
               <option value="python 将2024-05-24 17:31:08转换为timestamp格式" />
               <option value="sqlalchemy.orm.exc.UnmappedInstanceError: Class 'werkzeug.local.LocalProxy' is not mapped" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
