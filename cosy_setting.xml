@@ -49,6 +49,8 @@
               <option value="python 将2024-05-24 17:31:08转换为timestamp格式" />
               <option value="sqlalchemy.orm.exc.UnmappedInstanceError: Class 'werkzeug.local.LocalProxy' is not mapped" />
               <option value="/explain code" />
+              <option value="python创建list对象类并添加对象" />
+              <option value="python创建list并添加对象" />
             </list>
           </value>
         </entry>
