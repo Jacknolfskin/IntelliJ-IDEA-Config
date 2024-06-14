@@ -54,6 +54,7 @@
               <option value="can only concatenate str (not &quot;list&quot;) to str" />
               <option value="使用blinker  signal发送消息和接受消息" />
               <option value="core.helper.code_executor.code_executor:Failed to list dependencies: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。" />
+              <option value="ImportError: cannot import name 'signal' from partially initialized module 'blinker' (most likely due to a circular import)" />
             </list>
           </value>
         </entry>
