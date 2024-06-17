@@ -37,7 +37,6 @@
         <entry key="dify|1341095376173142">
           <value>
             <list>
-              <option value="python两个类赋值出现括号" />
               <option value="can only concatenate str (not &quot;tuple&quot;) to str" />
               <option value="python 类定义字段并附上初始化值" />
               <option value="类中直接赋初始化值" />
@@ -57,6 +56,7 @@
               <option value="应用上下文问题具体是啥问题" />
               <option value="args.get('icon_background')判断是否为空值" />
               <option value="python实现表数据只更新实体类有值字段" />
+              <option value="python if else写法" />
             </list>
           </value>
         </entry>
