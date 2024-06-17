@@ -37,8 +37,6 @@
         <entry key="dify|1341095376173142">
           <value>
             <list>
-              <option value="类中直接赋初始化值" />
-              <option value="python 获取timestampg格式当前时间" />
               <option value="python 将2024-05-24 17:31:08转换为timestamp格式" />
               <option value="sqlalchemy.orm.exc.UnmappedInstanceError: Class 'werkzeug.local.LocalProxy' is not mapped" />
               <option value="/explain code" />
@@ -57,6 +55,8 @@
               <option value="python if else写法" />
               <option value="mineBool = args['mine']&#10;        if mineBool:&#10;            filters.append(App.is_universal == False)&#10;            filters.append(App.is_public == True)&#10;            filters.append(App.type == args['type'])&#10;        else:&#10;            filters.append(App.tenant_id == tenant_id) 中的else不生效" />
               <option value="mineBool的值总是为真是什么问题" />
+              <option value="python leftjoin写法" />
+              <option value="AttributeError: 'Select' object has no attribute 'leftjoin'" />
             </list>
           </value>
         </entry>
