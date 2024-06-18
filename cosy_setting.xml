@@ -60,6 +60,13 @@
             </list>
           </value>
         </entry>
+        <entry key="langchain3|1341095376173142">
+          <value>
+            <list>
+              <option value="TypeError: search_knowledge_base() takes 5 positional arguments but 6 were given" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
