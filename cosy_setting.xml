@@ -37,8 +37,6 @@
         <entry key="dify|1341095376173142">
           <value>
             <list>
-              <option value="can only concatenate str (not &quot;list&quot;) to str" />
-              <option value="使用blinker  signal发送消息和接受消息" />
               <option value="core.helper.code_executor.code_executor:Failed to list dependencies: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。" />
               <option value="ImportError: cannot import name 'signal' from partially initialized module 'blinker' (most likely due to a circular import)" />
               <option value="实现Blinker发送和接收消息demo" />
@@ -57,6 +55,8 @@
               <option value="python 打印对象所有字段值" />
               <option value="app_models = db.paginate(&#10;            db.session.query(App, ApiToken.token).select_from(App).outerjoin(ApiToken, App.id == ApiToken.app_id).where(*filters).order_by(App.created_at.desc()),&#10;            page=args['page'],&#10;            per_page=args['limit'],&#10;            error_out=False&#10;        ) 如何打印出app_models" />
               <option value="TypeError: cannot unpack non-iterable App object" />
+              <option value="TypeError: 'list' object is not callable" />
+              <option value="/generate optimization" />
             </list>
           </value>
         </entry>
