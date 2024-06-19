@@ -64,6 +64,7 @@
           <value>
             <list>
               <option value="TypeError: search_knowledge_base() takes 5 positional arguments but 6 were given" />
+              <option value="is_square: bool = Body(True), 默认为false" />
             </list>
           </value>
         </entry>
