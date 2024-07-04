@@ -45,7 +45,6 @@
         <entry key="dify|1341095376173142">
           <value>
             <list>
-              <option value="python 打印对象类" />
               <option value="python 打印对象所有字段值" />
               <option value="app_models = db.paginate(&#10;            db.session.query(App, ApiToken.token).select_from(App).outerjoin(ApiToken, App.id == ApiToken.app_id).where(*filters).order_by(App.created_at.desc()),&#10;            page=args['page'],&#10;            per_page=args['limit'],&#10;            error_out=False&#10;        ) 如何打印出app_models" />
               <option value="TypeError: cannot unpack non-iterable App object" />
@@ -65,6 +64,7 @@
               <option value="flask.json如何处理" />
               <option value="flask 对象类datetime字段 json序列化" />
               <option value="'dict' object转为对象类" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
