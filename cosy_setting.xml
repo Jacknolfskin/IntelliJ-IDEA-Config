@@ -45,8 +45,6 @@
         <entry key="dify|1341095376173142">
           <value>
             <list>
-              <option value="app_models = db.paginate(&#10;            db.session.query(App, ApiToken.token).select_from(App).outerjoin(ApiToken, App.id == ApiToken.app_id).where(*filters).order_by(App.created_at.desc()),&#10;            page=args['page'],&#10;            per_page=args['limit'],&#10;            error_out=False&#10;        ) 如何打印出app_models" />
-              <option value="TypeError: cannot unpack non-iterable App object" />
               <option value="TypeError: 'list' object is not callable" />
               <option value="/generate optimization" />
               <option value="/explain code" />
@@ -65,6 +63,8 @@
               <option value="'dict' object转为对象类" />
               <option value="/explain code" />
               <option value="task events: OFF (enable -E to monitor tasks in this worker)" />
+              <option value="写一个包含用户账号和密码的登录网页" />
+              <option value="请把登录按钮修改为橘色的药丸形状" />
             </list>
           </value>
         </entry>
