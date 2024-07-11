@@ -46,7 +46,6 @@
         <entry key="dify|1341095376173142">
           <value>
             <list>
-              <option value="/generate optimization" />
               <option value="/explain code" />
               <option value="Not a valid PEM pre boundary" />
               <option value="python redis存入对象并取出" />
@@ -66,6 +65,7 @@
               <option value="写一个包含用户账号和密码的登录网页" />
               <option value="请把登录按钮修改为橘色的药丸形状" />
               <option value="/explain code" />
+              <option value="如何修改为超出部分不隐藏，全部显示呢" />
             </list>
           </value>
         </entry>
