@@ -76,6 +76,7 @@
               <option value="is_square: bool = Body(True), 默认为false" />
               <option value="/explain code" />
               <option value="from collections import defaultdict&#10;&#10;&#10;class Multimap(defaultdict):&#10;    def __init__(self):&#10;        super().__init__(list)  # 使用列表作为默认值&#10;&#10;    def add(self, key, value):&#10;        self[key].append(value)  # 添加值到映射的列表中&#10;&#10;    def get(self, key):&#10;        return self[key]  # 获取映射的值列表&#10;&#10;    def remove(self, key, value):&#10;        self[key].remove(value)  # 从映射的列表中移除值&#10;&#10;&#10;# 使用Multimap&#10;mymap = Multimap()&#10;mymap.add('fruit', 'apple')&#10;mymap.add('fruit', 'banana')&#10;mymap.add('vegetable', 'carrot')&#10;&#10;print(mymap.get('fruit'))  # 输出: ['apple', 'banana']&#10;print(mymap.get('vegetable'))  # 输出: ['carrot']&#10;&#10;mymap.remove('fruit', 'apple')&#10;print(mymap.get('fruit'))  # 输出: ['banana']&#10;遍历multimap key值" />
+              <option value="python创建一个包含str,list类型字段的对象并赋值，之后将这个对象加入list对象" />
             </list>
           </value>
         </entry>
