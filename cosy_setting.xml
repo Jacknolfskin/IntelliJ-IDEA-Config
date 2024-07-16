@@ -80,6 +80,8 @@
               <option value="/explain code" />
               <option value="You need to have sentencepiece installed to convert a slow tokenizer to a fast one" />
               <option value="/explain code" />
+              <option value="file_name.lower().endswith(&quot;.pdf&quot;)&#10;            textsplitter = ChineseTextSplitter(pdf=True, sentence_size=chunk_size)&#10;当文件名以pdf结尾时pdf=True,不以pdf结尾时pdf=False如何写" />
+              <option value="python 获取网址文本内容并转为UploadFile对象" />
             </list>
           </value>
         </entry>
