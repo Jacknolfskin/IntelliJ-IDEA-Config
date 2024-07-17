@@ -82,6 +82,12 @@
               <option value="/explain code" />
               <option value="file_name.lower().endswith(&quot;.pdf&quot;)&#10;            textsplitter = ChineseTextSplitter(pdf=True, sentence_size=chunk_size)&#10;当文件名以pdf结尾时pdf=True,不以pdf结尾时pdf=False如何写" />
               <option value="python 获取网址文本内容并转为UploadFile对象" />
+              <option value="python List[UploadFile]对象添加文件" />
+              <option value="python判断list对象是否为空" />
+              <option value="python 获取网站标题和内容" />
+              <option value="python 获取网址文本内容和网页标题" />
+              <option value="python 生成时间戳" />
+              <option value="/generate optimization" />
             </list>
           </value>
         </entry>
