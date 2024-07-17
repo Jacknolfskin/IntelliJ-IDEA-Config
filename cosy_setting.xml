@@ -72,8 +72,6 @@
         <entry key="langchain3|1341095376173142">
           <value>
             <list>
-              <option value="TypeError: search_knowledge_base() takes 5 positional arguments but 6 were given" />
-              <option value="is_square: bool = Body(True), 默认为false" />
               <option value="/explain code" />
               <option value="from collections import defaultdict&#10;&#10;&#10;class Multimap(defaultdict):&#10;    def __init__(self):&#10;        super().__init__(list)  # 使用列表作为默认值&#10;&#10;    def add(self, key, value):&#10;        self[key].append(value)  # 添加值到映射的列表中&#10;&#10;    def get(self, key):&#10;        return self[key]  # 获取映射的值列表&#10;&#10;    def remove(self, key, value):&#10;        self[key].remove(value)  # 从映射的列表中移除值&#10;&#10;&#10;# 使用Multimap&#10;mymap = Multimap()&#10;mymap.add('fruit', 'apple')&#10;mymap.add('fruit', 'banana')&#10;mymap.add('vegetable', 'carrot')&#10;&#10;print(mymap.get('fruit'))  # 输出: ['apple', 'banana']&#10;print(mymap.get('vegetable'))  # 输出: ['carrot']&#10;&#10;mymap.remove('fruit', 'apple')&#10;print(mymap.get('fruit'))  # 输出: ['banana']&#10;遍历multimap key值" />
               <option value="python创建一个包含str,list类型字段的对象并赋值，之后将这个对象加入list对象" />
@@ -89,6 +87,11 @@
               <option value="python 生成时间戳" />
               <option value="/generate optimization" />
               <option value="def upload_temp_file(&#10;        files: List[UploadFile] = File(..., description=&quot;上传文件，支持多文件&quot;, require=False),&#10;        web_links: List[str] = Form([], description=&quot;在线网址链接,支持多链接&quot;),&#10;        prev_id: str = Form(None, description=&quot;前知识库ID&quot;),&#10;files改为非必传参数" />
+              <option value="numpy.AxisError: axis 1 is out of bounds for array of dimension 1是啥问题" />
+              <option value="python 读取网页文本内容" />
+              <option value="ModuleNotFoundError(&quot;No module named 'faiss.swigfaiss_avx512'&quot;)" />
+              <option value="Could not load library with AVX512 support是啥意思" />
+              <option value="response.content和response.text有啥区别" />
             </list>
           </value>
         </entry>
