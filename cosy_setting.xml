@@ -88,6 +88,7 @@
               <option value="python 获取网址文本内容和网页标题" />
               <option value="python 生成时间戳" />
               <option value="/generate optimization" />
+              <option value="def upload_temp_file(&#10;        files: List[UploadFile] = File(..., description=&quot;上传文件，支持多文件&quot;, require=False),&#10;        web_links: List[str] = Form([], description=&quot;在线网址链接,支持多链接&quot;),&#10;        prev_id: str = Form(None, description=&quot;前知识库ID&quot;),&#10;files改为非必传参数" />
             </list>
           </value>
         </entry>
