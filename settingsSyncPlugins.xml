@@ -2,6 +2,28 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="GrepConsole">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="Key Promoter X">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="Pythonid">
           <value>
             <PluginData>
@@ -190,6 +212,32 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="lermitage.intellij.extra.icons">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="lermitage.intellij.extratci">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.jetbrains.jumpToLine">
           <value>
             <PluginData>
@@ -205,6 +253,17 @@
         <entry key="org.jetbrains.plugins.vue">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="ru.adelf.idea.dotenv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
           </value>
         </entry>
       </map>
