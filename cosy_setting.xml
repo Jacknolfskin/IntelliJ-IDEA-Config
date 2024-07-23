@@ -72,7 +72,6 @@
         <entry key="langchain3|1341095376173142">
           <value>
             <list>
-              <option value="python创建一个包含str,list类型字段的对象并赋值，之后将这个对象加入list对象" />
               <option value="/explain code" />
               <option value="You need to have sentencepiece installed to convert a slow tokenizer to a fast one" />
               <option value="/explain code" />
@@ -92,6 +91,7 @@
               <option value="response.content和response.text有啥区别" />
               <option value="/explain code" />
               <option value="documents = [] python判断documents为空" />
+              <option value="ERROR: RecursionError: 文件分割报错：maximum recursion depth exceeded in comparison" />
             </list>
           </value>
         </entry>
