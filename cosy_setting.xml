@@ -72,7 +72,6 @@
         <entry key="langchain3|1341095376173142">
           <value>
             <list>
-              <option value="file_name.lower().endswith(&quot;.pdf&quot;)&#10;            textsplitter = ChineseTextSplitter(pdf=True, sentence_size=chunk_size)&#10;当文件名以pdf结尾时pdf=True,不以pdf结尾时pdf=False如何写" />
               <option value="python 获取网址文本内容并转为UploadFile对象" />
               <option value="python List[UploadFile]对象添加文件" />
               <option value="python判断list对象是否为空" />
@@ -92,6 +91,7 @@
               <option value="RecursionError: 文件分割报错：cannot set the recursion limit to 10 at the recursion depth 11: the limit is too low" />
               <option value="ERROR: RecursionError: 文件分割报错：maximum recursion depth exceeded in comparison" />
               <option value="Python默认的最大递归深度是多少" />
+              <option value="TypeError: slice indices must be integers or None or have an __index__ method" />
             </list>
           </value>
         </entry>
