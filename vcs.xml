@@ -438,6 +438,10 @@
           <option name="url" value="https://github.com/xugaoyi/vuepress-theme-vdoing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Kele-Bingtang/Kele-Bingtang.github.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Project" />
