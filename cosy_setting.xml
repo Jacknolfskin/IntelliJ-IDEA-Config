@@ -107,6 +107,8 @@
             <list>
               <option value="/explain code" />
               <option value="Dynamic require of &quot;path&quot; is not supported" />
+              <option value="#00A55A是什么颜色" />
+              <option value="黑色是啥代号" />
             </list>
           </value>
         </entry>
