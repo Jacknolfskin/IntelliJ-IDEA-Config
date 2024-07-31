@@ -106,6 +106,7 @@
           <value>
             <list>
               <option value="/explain code" />
+              <option value="Dynamic require of &quot;path&quot; is not supported" />
             </list>
           </value>
         </entry>
