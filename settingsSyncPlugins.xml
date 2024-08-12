@@ -185,6 +185,7 @@
                   <option value="org.intellij.intelliLang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
