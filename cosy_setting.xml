@@ -110,6 +110,7 @@
               <option value="#00A55A是什么颜色" />
               <option value="黑色是啥代号" />
               <option value="var time = new Date();&#10;        ctx.drawImage(timeBeat, 0, 0);&#10;        // ctx.fillRect(-90, 320, 200, 2);&#10;        // ctx.fillText(&#10;        //   (time.getHours() &lt; 10 ? &quot;0&quot; : &quot;&quot;) +&#10;        //     time.getHours().toString() +&#10;        //     &quot;:&quot; +&#10;        //     (time.getMinutes() &lt; 10 ? &quot;0&quot; : &quot;&quot;) +&#10;        //     time.getMinutes() +&#10;        //     &quot;:&quot; +&#10;        //     (time.getSeconds() &lt; 10 ? &quot;0&quot; : &quot;&quot;) +&#10;        //     time.getSeconds().toString(),&#10;        //   725,&#10;        //   318&#10;        // );&#10;        // ctx.drawImage(rili, 0, 0);&#10;        ctx.resetTransform();&#10;调整timeBeat位置和大小" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
