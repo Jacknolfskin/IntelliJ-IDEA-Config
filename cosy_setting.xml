@@ -86,10 +86,6 @@
         <entry key="langchain3|1341095376173142">
           <value>
             <list>
-              <option value="python 获取网址文本内容并转为UploadFile对象" />
-              <option value="python List[UploadFile]对象添加文件" />
-              <option value="python判断list对象是否为空" />
-              <option value="python 获取网站标题和内容" />
               <option value="python 获取网址文本内容和网页标题" />
               <option value="python 生成时间戳" />
               <option value="/generate optimization" />
@@ -106,6 +102,10 @@
               <option value="ERROR: RecursionError: 文件分割报错：maximum recursion depth exceeded in comparison" />
               <option value="Python默认的最大递归深度是多少" />
               <option value="TypeError: slice indices must be integers or None or have an __index__ method" />
+              <option value="{&#10;&quot;id&quot;: &quot;6276ef81-6e7b-4259-8fd7-67140cb4c1bc&quot;,&#10;&quot;object&quot;: &quot;chat.completion&quot;,&#10;&quot;created&quot;: 1725875463,&#10;&quot;model&quot;: &quot;proxyllm&quot;,&#10;&quot;choices&quot;: [&#10;    {&#10;        &quot;index&quot;: 0,&#10;        &quot;message&quot;: {&#10;            &quot;role&quot;: &quot;assistant&quot;,&#10;            &quot;content&quot;: &quot;首先，我需要通过用户参数表(user_parameter)找到id为1的用户id。然后，使用这个用户id找到关联的助理问答表(assistant_qa)中的名字。\\n&lt;chart-view content=\&quot;{\&quot;type\&quot;: \&quot;response_data_text\&quot;, \&quot;sql\&quot;: \&quot;SELECT a.name FROM assistant_qa a JOIN user_parameter u ON a.user_id = u.user_id WHERE u.id = 1;\&quot;, \&quot;data\&quot;: [{\&quot;name\&quot;: \&quot;一个助理\&quot;}, {\&quot;name\&quot;: \&quot;而是\&quot;}]}\&quot; /&gt;&quot;&#10;        },&#10;        &quot;finish_reason&quot;: null&#10;    }&#10;],&#10;&quot;usage&quot;: {&#10;    &quot;prompt_tokens&quot;: 0,&#10;    &quot;total_tokens&quot;: 0,&#10;    &quot;completion_tokens&quot;: 0&#10;}&#10;}&#10;python解析上述json中的content字段值" />
+              <option value="首先，我需要找到用户参数id为1的用户id。然后，使用这个用户id找到关联的助理问答记录中的名字。我将通过连接user_parameter和assistant_qa表来实现这一查询，限制结果数量为50。\n&lt;chart-view content=&quot;{&quot;type&quot;: &quot;response_data_text&quot;, &quot;sql&quot;: &quot;SELECT a.name FROM assistant_qa a JOIN user_parameter u ON a.user_id = u.user_id WHERE u.id = 1 LIMIT 50;&quot;, &quot;data&quot;: [{&quot;name&quot;: &quot;一个助理&quot;}, {&quot;name&quot;: &quot;而是&quot;}]}&quot; /&gt;&#10;python提取上述字符中content字段值" />
+              <option value="首先，我需要找到用户参数id为1的用户id。然后，使用这个用户id找到关联的助理问答记录中的名字。我将通过连接user_parameter和assistant_qa表来实现这一查询，限制结果数量为50。\n&lt;chart-view content=&quot;{&quot;type&quot;: &quot;response_data_text&quot;, &quot;sql&quot;: &quot;SELECT a.name FROM assistant_qa a JOIN user_parameter u ON a.user_id = u.user_id WHERE u.id = 1 LIMIT 50;&quot;, &quot;data&quot;: [{&quot;name&quot;: &quot;一个助理&quot;}, {&quot;name&quot;: &quot;而是&quot;}]}&quot; /&gt; &#10;python提取上述字符中content中的json值" />
+              <option value="python 字符串截取指定字符中间的值" />
             </list>
           </value>
         </entry>
