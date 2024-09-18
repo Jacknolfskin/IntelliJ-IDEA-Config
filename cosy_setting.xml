@@ -46,6 +46,7 @@
               <option value="session = self.get_raw_session()&#10;&#10;            from sqlalchemy import text&#10;&#10;            insert_statement = text(&#10;                &quot;&quot;&quot;&#10;                INSERT INTO connect_config (&#10;                    db_name, db_type, db_path, db_host, db_port, db_user, db_pwd,&#10;                    comment, user_id) VALUES (:db_name, :db_type, :db_path, :db_host,&#10;                    :db_port, :db_user, :db_pwd, :comment, :user_id&#10;                )&#10;            &quot;&quot;&quot;&#10;            )&#10;&#10;            params = {&#10;                &quot;db_name&quot;: db_name,&#10;                &quot;db_type&quot;: db_type,&#10;                &quot;db_path&quot;: &quot;&quot;,&#10;                &quot;db_host&quot;: db_host,&#10;                &quot;db_port&quot;: db_port,&#10;                &quot;db_user&quot;: db_user,&#10;                &quot;db_pwd&quot;: db_pwd,&#10;                &quot;comment&quot;: comment if comment else &quot;&quot;,&#10;                &quot;user_id&quot;: user_id if user_id else &quot;&quot;,&#10;            }&#10;            session.execute(insert_statement, params)&#10;            session.commit()&#10;            session.close()&#10;获取插入后的自增id" />
               <option value="python int转str" />
               <option value="python 获取插入mysql表后的自增id" />
+              <option value="chat_param: Dict&#10;python中判断chat_param是否含有db_id键值" />
             </list>
           </value>
         </entry>
