@@ -96,6 +96,7 @@
           <value>
             <list>
               <option value="maven 打包的包名修改" />
+              <option value="java项目本地运行正常，maven打包后配置文件变量找不到" />
             </list>
           </value>
         </entry>
