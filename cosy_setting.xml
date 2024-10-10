@@ -92,6 +92,13 @@
             </list>
           </value>
         </entry>
+        <entry key="jpom-server|1341095376173142">
+          <value>
+            <list>
+              <option value="maven 打包的包名修改" />
+            </list>
+          </value>
+        </entry>
         <entry key="langchain3|1341095376173142">
           <value>
             <list>
