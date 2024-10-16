@@ -126,6 +126,13 @@
             </list>
           </value>
         </entry>
+        <entry key="roim-picx|1341095376173142">
+          <value>
+            <list>
+              <option value="export const checkToken = (data: AuthToken) =&gt; request.post('/rest/checkToken', data) 使用npm run dev启动后请求报404" />
+            </list>
+          </value>
+        </entry>
         <entry key="vuepress-theme-vdoing|1341095376173142">
           <value>
             <list>
