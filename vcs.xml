@@ -462,9 +462,13 @@
           <option name="url" value="https://github.com/Jacknolfskin/roim-picx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/waveCodeSite/roim-picx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Project" />
+    <option name="cloneParentDir" value="D:\temp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
